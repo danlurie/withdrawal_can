@@ -1,4 +1,4 @@
-function res = run_louvain(mat_path, out_prefix)
+function res = run_louvain(mat_path, out_prefix, gamma)
 
 %% Load BCT, NCT, and GenLouvain
 addpath('/home/despoB/dlurie/Software/matlab/BCT/2017_01_15_BCT')

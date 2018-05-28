@@ -13,7 +13,7 @@ corr_mat = weight_conversion(corr_mat, 'autofix');
 
 %% Evaluate versatility across resolution parameters (and save the results).
 versatility = find_optimal_gamma_curve(corr_mat, @find_louvain_communities_neg_asym, 0.5:0.05:4.0, 250);
-versatility_path = strcat(out_prefix, '_Versatility.txt');
+versatility_path = strcat(out_prefix, 'Versatility.txt');
 fileID = fopen(versatility_path, 'w');
 fprintf(fileID, '%.15e \r', versatility);
 fclose(fileID);
