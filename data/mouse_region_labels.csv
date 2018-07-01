@@ -1,0 +1,124 @@
+Brain Region ,Abbreviation,Allen Group Name
+Agranular insular area,AI,Cortical Plate
+"Agranular insular area, posterior part",AIp,Cortical Plate
+"Agranular insular area, ventral part",AIv,Cortical Plate
+Anterior amygdalar area,AAA,Striatum
+"Anterior cingulate area, dorsal part",ACAd,Cortical Plate
+"Anterior cingulate area, ventral part",ACAv,Cortical Plate
+Anterior hypothalamic nucleus,AHN,Hypothalamus
+Anterodorsal nucleus,AD,Thalamus
+Anterolateral visual area,VISal,Cortical Plate
+Anteroventral nucleus of the thalamus,AV,Thalamus
+Anteroventral periventricular nucleus,AVPV,Hypothalamus
+Anteroventral preoptic nucleus,AVP,Hypothalamus
+Basolateral amygdalar nucleus,BLA,Cortical Subplate
+Bed nuclei of the stria terminalis,BST,Pallidum
+Caudoputamen,CP,Striatum
+Central amygdalar nucleus,CEA,Striatum
+Central lateral nucleus of the thalamus,CL,Thalamus
+Central medial nucleus of the thalamus,CM,Thalamus
+Claustrum,CLA,Cortical Subplate
+Cortical amygdalar area,COA,Cortical Plate
+"Cortical amygdalar area, posterior part",COAp,Cortical Plate
+Culmen,CUL,Cerebellum
+Dentate gyrus,DG,Cortical Plate
+Diagonal band nucleus,NDB,Pallidum
+Dorsal auditory area,AUDd,Cortical Plate
+Dorsal peduncular area,DP,Cortical Plate
+Dorsomedial nucleus of the hypothalamus,DMH,Hypothalamus
+Ectorhinal area,ECT,Cortical Plate
+Endopiriform nucleus,EP,Cortical Subplate
+"Entorhinal area, lateral part",ENTl,Cortical Plate
+"Entorhinal area, medial part",ENTm,Cortical Plate
+Field CA1,CA1,Cortical Plate
+Field CA2,CA2,Cortical Plate
+Field CA3,CA3,Cortical Plate
+"Frontal pole, cerebral cortex",FRP,Cortical Plate
+Fundus of striatum,FS,Striatum
+Globus pallidus external segment,GPe,Pallidum
+Gustatory areas,GU,Cortical Plate
+Inferior colliculus,IC,Midbrain
+Infralimbic area,ILA,Cortical Plate
+Intercalated amygdalar nucleus,IA,Striatum
+Interpeduncular nucleus,IPN,Midbrain
+Lateral amygdalar nucleus,LA,Cortical Subplate
+Lateral dorsal nucleus of the thalamus,LD,Thalamus
+"Lateral geniculate complex, dorsal part",LGd,Thalamus
+Lateral habenula,LH,Thalamus
+Lateral hypothalamic area,LHA,Hypothalamus
+Lateral posterior nucleus of the thalamus,LP,Thalamus
+Lateral preoptic area,LPO,Hypothalamus
+Lateral septal complex,LSX,Striatum
+Lateral visual area,VISl,Cortical Plate
+Magnocellular nucleus,MA,Pallidum
+Medial amygdalar nucleus,MEA,Striatum
+Medial geniculate complex,MG,Thalamus
+Medial habenula,MH,Thalamus
+Medial preoptic area,MPO,Hypothalamus
+Medial preoptic nucleus,MPN,Hypothalamus
+Medial pretectal area,MPT,Midbrain
+Medial septal nucleus,MS,Pallidum
+Median preoptic nucleus,MEPO,Hypothalamus
+Mediodorsal nucleus of the thalamus,MD,Thalamus
+Midbrain reticular nucleus,MRN,Midbrain
+Nucleus accumbens,ACB,Striatum
+Olfactory tubercle,OT,Striatum
+Olivary pretectal nucleus,OP,Midbrain
+"Orbital area, lateral part",ORBl,Cortical Plate
+"Orbital area, medial part",ORBm,Cortical Plate
+"Orbital area, ventrolateral part",ORBvl,Cortical Plate
+Parasubiculum,PAR,Cortical Plate
+Parasubthalamic nucleus,PSTN,Hypothalamus
+Parataenial nucleus,PT,Thalamus
+Paraventricular hypothalamic nucleus,PVH,Hypothalamus
+Paraventricular nucleus of the thalamus,PVT,Thalamus
+Pedunculopontine nucleus,PPN,Midbrain
+Periaqueductal gray,PAG,Midbrain
+Perirhinal area,PERI,Cortical Plate
+"Periventricular hypothalamic nucleus, posterior part",PVp,Hypothalamus
+Periventricular zone,PVZ,Hypothalamus
+Piriform area,PIR,Cortical Plate
+Piriform-amygdalar area,PAA,Cortical Plate
+Pons,P,Hindbrain
+"Pons, motor related",P-mot,Hindbrain
+Posterior amygdalar nucleus,PA,Cortical Subplate
+Posterior complex of the thalamus,PO,Thalamus
+Posterior hypothalamic nucleus,PH,Hypothalamus
+Postsubiculum,POST,Cortical Plate
+Precommissural nucleus,PRC,Midbrain
+Prelimbic area,PL,Cortical Plate
+Presubiculum,PRE,Cortical Plate
+Primary auditory area,AUDp,Cortical Plate
+Primary motor area,Mop,Cortical Plate
+"Primary somatosensory area, lower limb",SSp-ll,Cortical Plate
+"Primary somatosensory area, mouth",SSp-m,Cortical Plate
+"Primary somatosensory area, trunk",SSp-tr,Cortical Plate
+"Primary somatosensory area, upper limb",SSp-ul,Cortical Plate
+Primary visual area,VISp,Cortical Plate
+Reticular nucleus of the thalamus,RT,Thalamus
+Retrochiasmatic area,RCH,Hypothalamus
+"Retrosplenial area, dorsal part",RSPd,Cortical Plate
+"Retrosplenial area, ventral part",RSPv,Cortical Plate
+Secondary motor area,MOs,Cortical Plate
+Subiculum,SUB,Cortical Plate
+Subparaventricular zone,SBPV,Hypothalamus
+Substantia innominate,SI,Pallidum
+"Substantia nigra, compact part",SNc,Midbrain
+"Substantia nigra, reticular part",SNr,Midbrain
+Subthalamic nucleus,STN,Hypothalamus
+"Superior colliculus, motor related",SCm,Midbrain
+"Superior colliculus, sensory related",SCs,Midbrain
+Supplemental somatosensory area,SSs,Cortical Plate
+Suprachiasmatic nucleus,SCH,Hypothalamus
+Taenia tecta,TT,Cortical Plate
+Temporal association areas,Tea,Cortical Plate
+Tuberal nucleus,TU,Hypothalamus
+Ventral anterior-lateral complex of the thalamus,VAL,Thalamus
+Ventral auditory area,AUDv,Cortical Plate
+Ventral medial nucleus of the thalamus,VM,Thalamus
+Ventral tegmental area,VTA,Midbrain
+Ventrolateral preoptic nucleus,VLPO,Hypothalamus
+Ventromedial hypothalamic nucleus,VMH,Hypothalamus
+Visceral area,VISC,Cortical Plate
+Zona incerta,ZI,Hypothalamus
+Posteromedial visual area,VISpm,Cortical Plate
