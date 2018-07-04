@@ -3,1108 +3,1108 @@ graph [
     id 0
     label "0"
     Region "AI"
-    PC 0.0
-    Module 3.0
+    PC 0.56722269454446839
+    WMDz 0.88278452744933245
+    Module 1.0
     Allen "Cortical Plate"
-    WMDz -1.4560101025414471
   ]
   node [
     id 1
     label "1"
     Region "AIp"
-    PC 0.0
-    Module 3.0
+    PC 0.17151429774590291
+    WMDz -0.31089758027532599
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz -0.51137482521645228
   ]
   node [
     id 2
     label "2"
     Region "AIv"
-    PC 0.66573413515877722
-    Module 2.0
+    PC 0.43138016576364357
+    WMDz -0.43872465708637581
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz -1.0200624167724015
   ]
   node [
     id 3
     label "3"
     Region "AAA"
-    PC 0.48383808676462292
-    Module 2.0
+    PC 0.0
+    WMDz -0.50462050837292294
+    Module 4.0
     Allen "Striatum"
-    WMDz -0.044367760442551835
   ]
   node [
     id 4
     label "4"
     Region "ACAd"
-    PC 0.25574052397095626
-    Module 3.0
+    PC 0.53776570219315367
+    WMDz -0.15517308362525831
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz -0.77111965351332379
   ]
   node [
     id 5
     label "5"
     Region "ACAv"
-    PC 0.25239551442343011
-    Module 3.0
+    PC 0.53187547095921373
+    WMDz -0.1650484853560325
+    Module 1.0
     Allen "Cortical Plate"
-    WMDz -1.8324803984574516
   ]
   node [
     id 6
     label "6"
     Region "AHN"
-    PC 0.2368387462074848
-    Module 3.0
+    PC 0.39935883131676991
+    WMDz 1.1700099284872021
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz -0.22497811575936205
   ]
   node [
     id 7
     label "7"
     Region "AD"
-    PC 0.0
-    Module 3.0
+    PC 0.37338430779505111
+    WMDz 0.63626425075704418
+    Module 2.0
     Allen "Thalamus"
-    WMDz 0.7710697753746657
   ]
   node [
     id 8
     label "8"
     Region "VISal"
-    PC 0.0
-    Module 3.0
+    PC 0.39538244536897371
+    WMDz 0.61823481614375819
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.72957395542616055
   ]
   node [
     id 9
     label "9"
     Region "AV"
-    PC 0.0
-    Module 3.0
+    PC 0.48988014270439811
+    WMDz 0.21085517047338559
+    Module 4.0
     Allen "Thalamus"
-    WMDz 0.94017617039590362
   ]
   node [
     id 10
     label "10"
     Region "AVPV"
-    PC 0.081867135243624101
-    Module 3.0
+    PC 0.47259278409034328
+    WMDz 0.55921485470239185
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz 0.045188356455157931
   ]
   node [
     id 11
     label "11"
     Region "AVP"
-    PC 0.0
-    Module 3.0
+    PC 0.17305246659432669
+    WMDz 0.29451794994342517
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz -0.050662424508168616
   ]
   node [
     id 12
     label "12"
     Region "BLA"
     PC 0.0
-    Module 1.0
+    WMDz 0.63782690749574811
+    Module 3.0
     Allen "Cortical Subplate"
-    WMDz 1.2524163036766789
   ]
   node [
     id 13
     label "13"
     Region "BST"
-    PC 0.326013359127313
-    Module 3.0
+    PC 0.39979135717368602
+    WMDz 0.46658427498038108
+    Module 4.0
     Allen "Pallidum"
-    WMDz -0.83790577376845476
   ]
   node [
     id 14
     label "14"
     Region "CP"
-    PC 0.0
-    Module 3.0
+    PC 0.55140303723424489
+    WMDz 0.3981842359646508
+    Module 4.0
     Allen "Striatum"
-    WMDz 1.26437712644964
   ]
   node [
     id 15
     label "15"
     Region "CEA"
-    PC 0.46934895135422622
-    Module 1.0
+    PC 0.0
+    WMDz 2.005900684568231
+    Module 3.0
     Allen "Striatum"
-    WMDz 0.80864945111315001
   ]
   node [
     id 16
     label "16"
     Region "CL"
-    PC 0.0
-    Module 3.0
+    PC 0.49142008289033418
+    WMDz 0.23418981245944001
+    Module 4.0
     Allen "Thalamus"
-    WMDz 0.92230787205611997
   ]
   node [
     id 17
     label "17"
     Region "CM"
-    PC 0.32354366545867863
-    Module 3.0
+    PC 0.2475041512799239
+    WMDz 1.399262915408847
+    Module 4.0
     Allen "Thalamus"
-    WMDz -0.60297090669451925
   ]
   node [
     id 18
     label "18"
     Region "CLA"
-    PC 0.46629885857916997
-    Module 1.0
+    PC 0.0
+    WMDz -0.95626932876740678
+    Module 3.0
     Allen "Cortical Subplate"
-    WMDz -1.2755938181538775
   ]
   node [
     id 19
     label "19"
     Region "COA"
-    PC 0.49409439239040909
-    Module 2.0
+    PC 0.0
+    WMDz 0.2139629111850565
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz 0.73821135368885016
   ]
   node [
     id 20
     label "20"
     Region "COAp"
-    PC 0.15658839257072954
-    Module 1.0
+    PC 0.0
+    WMDz 1.2963303469519059
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz 1.6140681565391812
   ]
   node [
     id 21
     label "21"
     Region "CUL"
     PC 0.0
-    Module 1.0
+    WMDz -1.2613620267101129
+    Module 3.0
     Allen "Cerebellum"
-    WMDz -0.90182082392267982
   ]
   node [
     id 22
     label "22"
     Region "DG"
-    PC 0.0
-    Module 3.0
+    PC 0.47005196601724553
+    WMDz 0.58788867273720435
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.1293240539572862
   ]
   node [
     id 23
     label "23"
     Region "NDB"
-    PC 0.0
-    Module 3.0
+    PC 0.1788094118972319
+    WMDz 0.80104823885723908
+    Module 2.0
     Allen "Pallidum"
-    WMDz 0.34448982194725192
   ]
   node [
     id 24
     label "24"
     Region "AUDd"
-    PC 0.0
-    Module 3.0
+    PC 0.14790340588043779
+    WMDz -0.081359793392116658
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz -0.37232189705885121
   ]
   node [
     id 25
     label "25"
     Region "DP"
-    PC 0.0
-    Module 3.0
+    PC 0.48370429418705557
+    WMDz 0.13334453974733709
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.0986142608008169
   ]
   node [
     id 26
     label "26"
     Region "DMH"
-    PC 0.0
-    Module 3.0
+    PC 0.32597999711661052
+    WMDz 0.69658570125901853
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz 0.58411287004159063
   ]
   node [
     id 27
     label "27"
     Region "ECT"
-    PC 0.23024861757459161
-    Module 3.0
+    PC 0.4118858768975926
+    WMDz 1.194117153691939
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz -0.15348710494938372
   ]
   node [
     id 28
     label "28"
     Region "EP"
-    PC 0.083011193200456024
-    Module 3.0
+    PC 0.49570776020340962
+    WMDz -1.2997628419822189
+    Module 1.0
     Allen "Cortical Subplate"
-    WMDz -1.2379392581033073
   ]
   node [
     id 29
     label "29"
     Region "ENTl"
-    PC 0.17440598186411338
-    Module 1.0
+    PC 0.0
+    WMDz 0.54113139547359723
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz 0.79111707387211616
   ]
   node [
     id 30
     label "30"
     Region "ENTm"
-    PC 0.44273132355049788
-    Module 1.0
+    PC 0.0
+    WMDz 0.46919444356486162
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz -0.11691383659766692
   ]
   node [
     id 31
     label "31"
     Region "CA1"
-    PC 0.4504478168005287
-    Module 1.0
+    PC 0.0
+    WMDz 1.2280125098453898
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz 0.40685913576622229
   ]
   node [
     id 32
     label "32"
     Region "CA2"
-    PC 0.0
-    Module 3.0
+    PC 0.52606164689105284
+    WMDz 0.35423393769774952
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.3332142872882842
   ]
   node [
     id 33
     label "33"
     Region "CA3"
-    PC 0.0
-    Module 3.0
+    PC 0.50331170674703229
+    WMDz 0.55705608986894262
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.4096656261188727
   ]
   node [
     id 34
     label "34"
     Region "FRP"
-    PC 0.0
-    Module 3.0
+    PC 0.52052523046986188
+    WMDz 0.45811407338638949
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.3947158285834098
   ]
   node [
     id 35
     label "35"
     Region "FS"
-    PC 0.0
-    Module 3.0
+    PC 0.44547463486047928
+    WMDz 0.40167137861340552
+    Module 2.0
     Allen "Striatum"
-    WMDz 0.96296910982723938
   ]
   node [
     id 36
     label "36"
     Region "GPe"
-    PC 0.12155169043806067
-    Module 2.0
+    PC 0.42853320091964603
+    WMDz -1.5469271796707822
+    Module 4.0
     Allen "Pallidum"
-    WMDz 1.2895182171153945
   ]
   node [
     id 37
     label "37"
     Region "GU"
-    PC 0.20524652867189799
-    Module 3.0
+    PC 0.27712610333612392
+    WMDz 0.784003113761368
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz -0.658208687272549
   ]
   node [
     id 38
     label "38"
     Region "IC"
-    PC 0.49153139082352582
-    Module 1.0
+    PC 0.0
+    WMDz -0.15985388548242679
+    Module 3.0
     Allen "Midbrain"
-    WMDz -1.261641120566215
   ]
   node [
     id 39
     label "39"
     Region "ILA"
-    PC 0.58082788302389188
-    Module 2.0
+    PC 0.21084203145075531
+    WMDz -0.18063849775023061
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz -0.78080553445899781
   ]
   node [
     id 40
     label "40"
     Region "IA"
-    PC 0.0
-    Module 3.0
+    PC 0.22078167207071539
+    WMDz 0.71788972110194849
+    Module 2.0
     Allen "Striatum"
-    WMDz 0.35310950162171278
   ]
   node [
     id 41
     label "41"
     Region "IPN"
-    PC 0.35076528755711922
-    Module 1.0
+    PC 0.0
+    WMDz 1.7373557417272041
+    Module 3.0
     Allen "Midbrain"
-    WMDz 1.3654432865192567
   ]
   node [
     id 42
     label "42"
     Region "LA"
-    PC 0.0
-    Module 3.0
+    PC 0.53407616527265878
+    WMDz 0.1344133921551619
+    Module 2.0
     Allen "Cortical Subplate"
-    WMDz 0.91014149490305718
   ]
   node [
     id 43
     label "43"
     Region "LD"
-    PC 0.32469595817584651
-    Module 1.0
+    PC 0.17875862774769599
+    WMDz 0.18772798251638789
+    Module 3.0
     Allen "Thalamus"
-    WMDz 0.36497691613537536
   ]
   node [
     id 44
     label "44"
     Region "LGd"
-    PC 0.0
-    Module 3.0
+    PC 0.57063872954917894
+    WMDz -0.094725822741030044
+    Module 2.0
     Allen "Thalamus"
-    WMDz 1.1418435262665878
   ]
   node [
     id 45
     label "45"
     Region "LH"
-    PC 0.21690459061112155
-    Module 3.0
+    PC 0.20359609962223629
+    WMDz -0.98558902054474862
+    Module 4.0
     Allen "Thalamus"
-    WMDz -1.6828889651039991
   ]
   node [
     id 46
     label "46"
     Region "LHA"
-    PC 0.31047501328782978
-    Module 3.0
+    PC 0.2212995981386234
+    WMDz 1.1926588385329562
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz -0.7067407005192643
   ]
   node [
     id 47
     label "47"
     Region "LP"
-    PC 0.0
-    Module 3.0
+    PC 0.52498981311259552
+    WMDz 0.28673895695377261
+    Module 2.0
     Allen "Thalamus"
-    WMDz 1.0658358892386379
   ]
   node [
     id 48
     label "48"
     Region "LPO"
-    PC 0.0
-    Module 3.0
+    PC 0.61046994143270028
+    WMDz 0.63279952236077519
+    Module 1.0
     Allen "Hypothalamus"
-    WMDz -0.3739824499187005
   ]
   node [
     id 49
     label "49"
     Region "LSX"
-    PC 0.499445709311236
-    Module 2.0
+    PC 0.29119982144584422
+    WMDz -0.43052462398432961
+    Module 4.0
     Allen "Striatum"
-    WMDz 0.96307242947624361
   ]
   node [
     id 50
     label "50"
     Region "VISl"
-    PC 0.64837505466901479
-    Module 2.0
+    PC 0.49350536917626758
+    WMDz -0.49489502220298542
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz -1.0419548420668718
   ]
   node [
     id 51
     label "51"
     Region "MA"
-    PC 0.4087939864304182
-    Module 2.0
+    PC 0.0
+    WMDz -0.53812950690505446
+    Module 4.0
     Allen "Pallidum"
-    WMDz -0.59978125723294318
   ]
   node [
     id 52
     label "52"
     Region "MEA"
-    PC 0.49930426071921508
-    Module 2.0
+    PC 0.1515448556522655
+    WMDz -0.16373051981040801
+    Module 4.0
     Allen "Striatum"
-    WMDz 1.0073773466390314
   ]
   node [
     id 53
     label "53"
     Region "MG"
-    PC 0.31990474525279877
-    Module 3.0
+    PC 0.50100084213640794
+    WMDz 0.7426933059275197
+    Module 1.0
     Allen "Thalamus"
-    WMDz -1.8295813417377931
   ]
   node [
     id 54
     label "54"
     Region "MH"
     PC 0.0
-    Module 1.0
+    WMDz -1.6410221453935532
+    Module 3.0
     Allen "Thalamus"
-    WMDz -1.3324667216561972
   ]
   node [
     id 55
     label "55"
     Region "MPO"
-    PC 0.0
-    Module 3.0
+    PC 0.3702397819227341
+    WMDz 0.63132158006263706
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz 0.75286917630357764
   ]
   node [
     id 56
     label "56"
     Region "MPN"
-    PC 0.0
-    Module 3.0
+    PC 0.43142904664711978
+    WMDz -0.22441897549958681
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz 0.23391372899557331
   ]
   node [
     id 57
     label "57"
     Region "MPT"
     PC 0.0
-    Module 1.0
+    WMDz -0.5959117484074905
+    Module 3.0
     Allen "Midbrain"
-    WMDz -0.14700508638771806
   ]
   node [
     id 58
     label "58"
     Region "MS"
-    PC 0.0
-    Module 3.0
+    PC 0.63759908288573142
+    WMDz -0.092121608035143257
+    Module 1.0
     Allen "Pallidum"
-    WMDz -0.71303684057288619
   ]
   node [
     id 59
     label "59"
     Region "MEPO"
     PC 0.31916585347835502
+    WMDz -2.66217154427114
     Module 2.0
     Allen "Hypothalamus"
-    WMDz -1.8239657628352144
   ]
   node [
     id 60
     label "60"
     Region "MD"
-    PC 0.098293301908512279
-    Module 3.0
+    PC 0.55211972912757679
+    WMDz 0.79595793371882462
+    Module 4.0
     Allen "Thalamus"
-    WMDz 0.58359720258791015
   ]
   node [
     id 61
     label "61"
     Region "MRN"
-    PC 0.34926765521222669
-    Module 2.0
+    PC 0.36982420803841137
+    WMDz -1.1786748289406928
+    Module 4.0
     Allen "Midbrain"
-    WMDz 1.2704823409026988
   ]
   node [
     id 62
     label "62"
     Region "ACB"
-    PC 0.38234707436835308
-    Module 3.0
+    PC 0.54567665531970289
+    WMDz 0.5757713861569228
+    Module 1.0
     Allen "Striatum"
-    WMDz -1.8453448366077521
   ]
   node [
     id 63
     label "63"
     Region "OT"
-    PC 0.07166983964146445
-    Module 3.0
+    PC 0.62603368320433883
+    WMDz -2.1095004975020708
+    Module 1.0
     Allen "Striatum"
-    WMDz -0.99489041000676881
   ]
   node [
     id 64
     label "64"
     Region "OP"
-    PC 0.30462838267280523
-    Module 1.0
+    PC 0.0
+    WMDz -0.94864088418287218
+    Module 3.0
     Allen "Midbrain"
-    WMDz -0.91322848565922321
   ]
   node [
     id 65
     label "65"
     Region "ORBl"
-    PC 0.0
-    Module 3.0
+    PC 0.5549800574041851
+    WMDz 0.21579739368852541
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz 1.1285349283689434
   ]
   node [
     id 66
     label "66"
     Region "ORBm"
-    PC 0.0
-    Module 3.0
+    PC 0.13317457077006159
+    WMDz 0.41194222386721241
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz -0.02881290964566658
   ]
   node [
     id 67
     label "67"
     Region "ORBvl"
-    PC 0.0
-    Module 3.0
+    PC 0.48970015571848241
+    WMDz 0.34004338488887642
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz 1.100126450767114
   ]
   node [
     id 68
     label "68"
     Region "PAR"
-    PC 0.27128650490159101
-    Module 2.0
+    PC 0.49619130565336328
+    WMDz -0.82557136444588686
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz 0.51857358227302208
   ]
   node [
     id 69
     label "69"
     Region "PSTN"
     PC 0.0
-    Module 1.0
+    WMDz 0.52118129790286261
+    Module 3.0
     Allen "Hypothalamus"
-    WMDz 1.1201059798164954
   ]
   node [
     id 70
     label "70"
     Region "PT"
-    PC 0.038143730488807148
-    Module 3.0
+    PC 0.48885940963005908
+    WMDz 0.5955010575041465
+    Module 4.0
     Allen "Thalamus"
-    WMDz 0.33766960201275359
   ]
   node [
     id 71
     label "71"
     Region "PVH"
-    PC 0.0
-    Module 3.0
+    PC 0.41184145361940372
+    WMDz -0.83115160862305837
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz -0.44908338014567062
   ]
   node [
     id 72
     label "72"
     Region "PVT"
-    PC 0.39747142941933827
-    Module 2.0
+    PC 0.48344464095142359
+    WMDz -2.2256779157142232
+    Module 4.0
     Allen "Thalamus"
-    WMDz -0.64055478311068559
   ]
   node [
     id 73
     label "73"
     Region "PPN"
-    PC 0.44713964311314569
-    Module 2.0
+    PC 0.4580434255221113
+    WMDz 0.49888536960775609
+    Module 3.0
     Allen "Midbrain"
-    WMDz 0.4273571172809264
   ]
   node [
     id 74
     label "74"
     Region "PAG"
-    PC 0.49789742656262481
-    Module 2.0
+    PC 0.42941782754242269
+    WMDz 0.96129218157785423
+    Module 3.0
     Allen "Midbrain"
-    WMDz 0.11941295315575112
   ]
   node [
     id 75
     label "75"
     Region "PERI"
-    PC 0.063853503553146007
-    Module 3.0
+    PC 0.47157233386878988
+    WMDz -0.039666669104637814
+    Module 1.0
     Allen "Cortical Plate"
-    WMDz -0.85235541712549756
   ]
   node [
     id 76
     label "76"
     Region "PVp"
-    PC 0.0
-    Module 3.0
+    PC 0.49906210069847762
+    WMDz -1.5422619342554933
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz -1.4072922615735042
   ]
   node [
     id 77
     label "77"
     Region "PVZ"
-    PC 0.13000163278838214
-    Module 2.0
+    PC 0.24210732146180819
+    WMDz -1.3287907102310839
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz 1.1235062606729589
   ]
   node [
     id 78
     label "78"
     Region "PIR"
-    PC 0.49994497726914289
-    Module 1.0
+    PC 0.0
+    WMDz 0.15997798354317991
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz -0.87809360090196298
   ]
   node [
     id 79
     label "79"
     Region "PAA"
-    PC 0.29971012029752953
-    Module 3.0
+    PC 0.2532627182023226
+    WMDz 1.2942318692686929
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz -0.59767479566554738
   ]
   node [
     id 80
     label "80"
     Region "P"
-    PC 0.62896370799897416
-    Module 2.0
+    PC 0.32164567479883022
+    WMDz -0.093240378956958039
+    Module 3.0
     Allen "Hindbrain"
-    WMDz -0.76332079792408991
   ]
   node [
     id 81
     label "81"
     Region "P-mot"
-    PC 0.49367993340381622
-    Module 2.0
+    PC 0.0
+    WMDz -0.2292503062048937
+    Module 3.0
     Allen "Hindbrain"
-    WMDz -1.0749898959085358
   ]
   node [
     id 82
     label "82"
     Region "PA"
-    PC 0.42449751280426329
-    Module 3.0
+    PC 0.0
+    WMDz -2.3373062267243858
+    Module 4.0
     Allen "Cortical Subplate"
-    WMDz -2.4271960810380651
   ]
   node [
     id 83
     label "83"
     Region "PO"
-    PC 0.0
-    Module 3.0
+    PC 0.54697423957719427
+    WMDz -0.21839940957720991
+    Module 2.0
     Allen "Thalamus"
-    WMDz 0.58520268550321108
   ]
   node [
     id 84
     label "84"
     Region "PH"
-    PC 0.22216545671736376
-    Module 3.0
+    PC 0.2476054686729349
+    WMDz 0.6166962412911976
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz -0.81698495846621821
   ]
   node [
     id 85
     label "85"
     Region "POST"
-    PC 0.63897758304457786
-    Module 2.0
+    PC 0.49778552384598718
+    WMDz -2.0201574527157082
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz -1.5455631072737257
   ]
   node [
     id 86
     label "86"
     Region "PRC"
     PC 0.0
-    Module 1.0
+    WMDz -0.31894402771063141
+    Module 3.0
     Allen "Midbrain"
-    WMDz 0.16715752077871016
   ]
   node [
     id 87
     label "87"
     Region "PL"
-    PC 0.0
-    Module 3.0
+    PC 0.58049750360931052
+    WMDz 0.87205136008556328
+    Module 1.0
     Allen "Cortical Plate"
-    WMDz -0.3191975038013925
   ]
   node [
     id 88
     label "88"
     Region "PRE"
-    PC 0.30685312691899858
-    Module 3.0
+    PC 0.53362950390894426
+    WMDz -0.85018088399308689
+    Module 4.0
     Allen "Cortical Plate"
-    WMDz -1.3088115104653069
   ]
   node [
     id 89
     label "89"
     Region "AUDp"
-    PC 0.43832095854494407
-    Module 3.0
+    PC 0.37794411176829462
+    WMDz -2.3883206818128331
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz -2.182759171707696
   ]
   node [
     id 90
     label "90"
     Region "Mop"
-    PC 0.0
-    Module 3.0
+    PC 0.32417596683750388
+    WMDz 0.68557150810198331
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.56977222508402425
   ]
   node [
     id 91
     label "91"
     Region "SSp-ll"
-    PC 0.0
-    Module 3.0
+    PC 0.43331753785271004
+    WMDz 0.46219563051551271
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.93341955430448365
   ]
   node [
     id 92
     label "92"
     Region "SSp-m"
-    PC 0.0
-    Module 3.0
+    PC 0.097935760573075833
+    WMDz 0.31913917356636401
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz -0.14953160988899161
   ]
   node [
     id 93
     label "93"
     Region "SSp-tr"
-    PC 0.0
-    Module 3.0
+    PC 0.45217502026110978
+    WMDz 0.61085435413282241
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.0866714224002998
   ]
   node [
     id 94
     label "94"
     Region "SSp-ul"
-    PC 0.0
-    Module 3.0
+    PC 0.42059591585829498
+    WMDz 0.47505494358448452
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.86274052496303288
   ]
   node [
     id 95
     label "95"
     Region "VISp"
-    PC 0.0
-    Module 3.0
+    PC 0.40074327194308562
+    WMDz 0.59618383057843027
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.72815614475835755
   ]
   node [
     id 96
     label "96"
     Region "RT"
-    PC 0.040025972822325666
-    Module 3.0
+    PC 0.48428887856172281
+    WMDz 0.58660561686492929
+    Module 4.0
     Allen "Thalamus"
-    WMDz 0.25828557061286561
   ]
   node [
     id 97
     label "97"
     Region "RCH"
-    PC 0.10648068901719067
-    Module 3.0
+    PC 0.1132638976099237
+    WMDz -1.560844569950369
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz -1.5577275246376956
   ]
   node [
     id 98
     label "98"
     Region "RSPd"
-    PC 0.0
-    Module 3.0
+    PC 0.45640220656210723
+    WMDz 0.64908018537781897
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.0642924689108555
   ]
   node [
     id 99
     label "99"
     Region "RSPv"
-    PC 0.49849996716423411
-    Module 1.0
+    PC 0.36507203000652783
+    WMDz -1.599304561350579
+    Module 3.0
     Allen "Cortical Plate"
-    WMDz -1.6567676305324468
   ]
   node [
     id 100
     label "100"
     Region "MOs"
-    PC 0.0
-    Module 3.0
+    PC 0.47062163808421548
+    WMDz 0.61219027984650454
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 1.1098993973697864
   ]
   node [
     id 101
     label "101"
     Region "SUB"
-    PC 0.12596432031053495
-    Module 3.0
+    PC 0.33279320202647428
+    WMDz -2.0235968602157057
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz -1.7546562888843826
   ]
   node [
     id 102
     label "102"
     Region "SBPV"
-    PC 0.18322583330196085
-    Module 3.0
+    PC 0.0
+    WMDz -2.0301248712586371
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz -1.9525243124708371
   ]
   node [
     id 103
     label "103"
     Region "SI"
-    PC 0.4677601540834575
-    Module 2.0
+    PC 0.2488807724589828
+    WMDz -0.57254427869896851
+    Module 4.0
     Allen "Pallidum"
-    WMDz 1.2627010622638637
   ]
   node [
     id 104
     label "104"
     Region "SNc"
-    PC 0.14106846666442052
-    Module 2.0
+    PC 0.46490956090103808
+    WMDz -1.8063453437496868
+    Module 4.0
     Allen "Midbrain"
-    WMDz 0.78351652399501626
   ]
   node [
     id 105
     label "105"
     Region "SNr"
-    PC 0.4998642230054029
-    Module 2.0
+    PC 0.0
+    WMDz -0.21243912481713181
+    Module 4.0
     Allen "Midbrain"
-    WMDz 0.67281189865051139
   ]
   node [
     id 106
     label "106"
     Region "STN"
-    PC 0.038831559602535037
-    Module 3.0
+    PC 0.49172512380985639
+    WMDz 0.46802827560713611
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz 0.2759660320258937
   ]
   node [
     id 107
     label "107"
     Region "SCm"
-    PC 0.39332111238967982
-    Module 2.0
+    PC 0.49984613782843529
+    WMDz -0.1249077951809086
+    Module 3.0
     Allen "Midbrain"
-    WMDz 0.70438817918547214
   ]
   node [
     id 108
     label "108"
     Region "SCs"
-    PC 0.37795922172950441
-    Module 1.0
+    PC 0.0
+    WMDz 1.3439880818256202
+    Module 3.0
     Allen "Midbrain"
-    WMDz 0.90143572420367657
   ]
   node [
     id 109
     label "109"
     Region "SSs"
-    PC 0.0
-    Module 3.0
+    PC 0.35435485022487201
+    WMDz 0.61892976018871237
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.67664505430934319
   ]
   node [
     id 110
     label "110"
     Region "SCH"
     PC 0.49704615607645353
+    WMDz -2.9303077465945182
     Module 2.0
     Allen "Hypothalamus"
-    WMDz -1.5455631072737257
   ]
   node [
     id 111
     label "111"
     Region "TT"
-    PC 0.0
-    Module 3.0
+    PC 0.50202509529476624
+    WMDz 0.30643576506716758
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.88865601213774914
   ]
   node [
     id 112
     label "112"
     Region "Tea"
-    PC 0.0
-    Module 3.0
+    PC 0.29809998995013931
+    WMDz 0.68655278939851794
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.50543067896121241
   ]
   node [
     id 113
     label "113"
     Region "TU"
-    PC 0.485403754176438
-    Module 1.0
+    PC 0.1799180049573382
+    WMDz 0.29988915594845278
+    Module 3.0
     Allen "Hypothalamus"
-    WMDz -0.30869842404288722
   ]
   node [
     id 114
     label "114"
     Region "VAL"
-    PC 0.0
-    Module 3.0
+    PC 0.56039106737596578
+    WMDz 0.44048520592045048
+    Module 4.0
     Allen "Thalamus"
-    WMDz 1.0044413414360158
   ]
   node [
     id 115
     label "115"
     Region "AUDv"
-    PC 0.0
-    Module 3.0
+    PC 0.34238776802975152
+    WMDz 0.4244880727493191
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.46096933679582369
   ]
   node [
     id 116
     label "116"
     Region "VM"
-    PC 0.17919091140652202
-    Module 3.0
+    PC 0.46479624062245689
+    WMDz 1.0951492477982718
+    Module 4.0
     Allen "Thalamus"
-    WMDz 0.12822310303786574
   ]
   node [
     id 117
     label "117"
     Region "VTA"
-    PC 0.034793986046139813
-    Module 3.0
+    PC 0.49887556017863349
+    WMDz 0.53783826131123957
+    Module 4.0
     Allen "Midbrain"
-    WMDz 0.56979212585347094
   ]
   node [
     id 118
     label "118"
     Region "VLPO"
-    PC 0.0
-    Module 3.0
+    PC 0.44430210246302282
+    WMDz -0.22010538368004781
+    Module 2.0
     Allen "Hypothalamus"
-    WMDz 0.31500469470144793
   ]
   node [
     id 119
     label "119"
     Region "VMH"
-    PC 0.30887309322066409
-    Module 3.0
+    PC 0.05849904787699689
+    WMDz 1.130591767591278
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz -0.91533750869890795
   ]
   node [
     id 120
     label "120"
     Region "VISC"
-    PC 0.0
-    Module 3.0
+    PC 0.35157877882625871
+    WMDz 0.63850319424128932
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.60959507978857963
   ]
   node [
     id 121
     label "121"
     Region "ZI"
-    PC 0.0403460530860974
-    Module 3.0
+    PC 0.48863496848389387
+    WMDz 0.43894622493705132
+    Module 4.0
     Allen "Hypothalamus"
-    WMDz 0.19376933122113341
   ]
   node [
     id 122
     label "122"
     Region "VISpm"
-    PC 0.0
-    Module 3.0
+    PC 0.1211121316878639
+    WMDz 0.76997983739037346
+    Module 2.0
     Allen "Cortical Plate"
-    WMDz 0.21149652656209528
   ]
   edge [
     source 0
