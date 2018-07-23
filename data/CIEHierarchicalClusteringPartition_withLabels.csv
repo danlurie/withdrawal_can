@@ -1,0 +1,124 @@
+Region,RegionCluster,Abbreviations
+Basolateral amygdalar nucleus                      ,1,BLA
+Central amygdalar nucleus                          ,1,CEA
+Claustrum                                          ,1,CLA
+Cortical amygdalar area posterior part             ,1,COAp
+Culmen    ,1,CUL
+Endopiriform nucleus                               ,1,EP
+Entorhinal area lateral part                       ,1,ENTl
+Entorhinal area medial part                        ,1,ENTm
+Gustatory areas                                    ,1,GU
+Intercalated amygdalar nucleus                     ,1,IA
+Lateral amygdalar nucleus                          ,1,LA
+Medial habenula                                    ,1,MH
+Medial pretectal area                              ,1,MPT
+Olivary pretectal nucleus                          ,1,OP
+Parasubthalamic nucleus                            ,1,PSTN
+Piriform area                                      ,1,PIR
+Precommissural nucleus                             ,1,PRC
+Retrosplenial area ventral part                    ,1,RSPv
+Superior colliculus sensory related                ,1,SCs
+Tuberal nucleus                                    ,1,TU
+Agranular insular area ventral part                ,2,AIv
+Anterior amygdalar area                            ,2,AAA
+Cortical amygdalar area                            ,2,COA
+Fundus of striatum                                 ,2,FS
+Inferior colliculus                                ,2,IC
+Lateral septal complex                             ,2,LSX
+Lateral visual area                                ,2,VISl
+Magnocellular nucleus                              ,2,MA
+Medial amygdalar nucleus                          ,2,MEA
+Median preoptic nucleus                            ,2,MEPO
+Midbrain reticular nucleus                    ,2,MRN
+Parasubiculum                                      ,2,PAR
+Paraventricular nucleus of the thalamus            ,2,PVT
+Pedunculopontine nucleus                           ,2,PPN
+Periaqueductal gray                                ,2,PAG
+Periventricular zone                               ,2,PVZ
+Pons                                               ,2,P
+Pons motor related                                 ,2,P-mot
+Postsubiculum                                      ,2,POST
+Substantia innominata                              ,2,SI
+Substantia nigra compact part                      ,2,SNc
+Substantia nigra reticular part                    ,2,SNr
+Superior colliculus motor related                  ,2,SCm
+Suprachiasmatic nucleus                            ,2,SCH
+Agranular insular area                            ,3,AI
+Agranular insular area posterior part              ,3,AIp
+Anterior cingulate area dorsal part                ,3,ACAd
+Anterior cingulate area ventral part               ,3,ACAv
+Anterior hypothalamic nucleus                      ,3,AHN
+Anterodorsal nucleus                               ,3,AD
+Anterolateral visual area                          ,3,VISal
+Anteroventral nucleus of thalamus                  ,3,AV
+Anteroventral periventricular nucleus              ,3,AVPV
+Anteroventral preoptic nucleus                     ,3,AVP
+Bed nuclei of the stria terminalis                 ,3,BST
+Caudoputamen                                       ,3,CP
+Central lateral nucleus of the thalamus            ,3,CL
+Central medial nucleus of the thalamus             ,3,CM
+Dentate gyrus                                      ,3,DG
+Diagonal band nucleus                              ,3,NDB
+Dorsal auditory area                               ,3,AUDd
+Dorsal part of the lateral geniculate complex      ,3,LGd
+Dorsal peduncular area                             ,3,DP
+Dorsomedial nucleus of the hypothalamus            ,3,DMH
+Ectorhinal area                                   ,3,ECT
+Field CA1                                          ,3,CA1
+Field CA2                                          ,3,CA2
+Field CA3                                          ,3,CA3
+Frontal pole cerebral cortex                ,3,FRP
+Globus pallidus external segment                   ,3,GPe
+Infralimbic area                                   ,3,ILA
+Interpeduncular nucleus                            ,3,IPN
+Lateral dorsal nucleus of thalamus                 ,3,LD
+Lateral habenula                                   ,3,LH
+Lateral hypothalamic area                          ,3,LHA
+Lateral posterior nucleus of the thalamus          ,3,LP
+Lateral preoptic area                              ,3,LPO
+Medial geniculate complex                          ,3,MG
+Medial preoptic area                               ,3,MPO
+Medial preoptic nucleus                            ,3,MPN
+Medial septal nucleus                              ,3,MS
+Mediodorsal nucleus of thalamus                    ,3,MD
+Nucleus accumbens                                  ,3,ACB
+Olfactory tubercle                                 ,3,OT
+Orbital area lateral part                          ,3,ORBl
+Orbital area medial part                           ,3,ORBm
+Orbital area ventrolateral part                    ,3,ORBvl
+Parataenial nucleus                                ,3,PT
+Paraventricular hypothalamic nucleus               ,3,PVH
+Perirhinal area                                    ,3,PERI
+Periventricular hypothalamic nucleus posterior part,3,PVp
+Piriform-amygdalar area                            ,3,PAA
+Posterior amygdalar nucleus                       ,3,PA
+Posterior complex of the thalamus                  ,3,PO
+Posterior hypothalamic nucleus                     ,3,PH
+posteromedial visual area                          ,3,VISpm
+Prelimbic area                                     ,3,PL
+Presubiculum                                       ,3,PRE
+Primary auditory area                              ,3,AUDp
+Primary motor area                            ,3,MOp
+Primary somatosensory area lower limb             ,3,SSp-ll
+Primary somatosensory area mouth                   ,3,SSp-m
+Primary somatosensory area trunk                   ,3,SSp-tr
+Primary somatosensory area upper limb              ,3,SSp-ul
+Primary visual area                                ,3,VISp
+Reticular nucleus of the thalamus                  ,3,RT
+Retrochiasmatic area                               ,3,RCH
+Retrosplenial area dorsal part                     ,3,RSPd
+Secondary motor area                               ,3,MOs
+Subiculum                                          ,3,SUB
+Subparaventricular zone                            ,3,SBPV
+Subthalamic nucleus                                ,3,STN
+Supplemental somatosensory area                   ,3,SSs
+Taenia tecta                                       ,3,TT
+Temporal association areas                         ,3,TEa
+Ventral anterior-lateral complex of the thalamus   ,3,VAL
+Ventral auditory area                              ,3,AUDv
+Ventral medial nucleus of the thalamus             ,3,VM
+Ventral tegmental area                             ,3,VTA
+Ventrolateral preoptic nucleus                     ,3,VLPO
+Ventromedial hypothalamic nucleus                  ,3,VMH
+Visceral area                                      ,3,VISC 
+Zona incerta                                       ,3,ZI
